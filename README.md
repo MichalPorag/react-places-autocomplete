@@ -1,6 +1,7 @@
 [![MIT-License](https://img.shields.io/npm/l/react-places-autocomplete.svg?style=flat-square)]()
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/react-places-autocomplete/Lobby)
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-orange)](https://github.com/hibiken/react-places-autocomplete/issues/296#issuecomment-583764730)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/643f1354-0e6c-4f03-929f-238ca2988141/deploy-status)](https://app.netlify.com/sites/michal-porag-password-generator/deploys)
 
 ## We are looking for maintainers!
 In order to ensure active development going forward, we are looking for maintainers to join the project. [Please contact the project owner if you are interested.](https://github.com/hibiken/react-places-autocomplete/issues/296#issuecomment-583764730)
